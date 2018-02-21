@@ -16,6 +16,13 @@ but mathematically they do not exist, therefore the theory is invalid.
 Although Oscar's Grind may not be the system that beats the house, it has a great chance to show profit in a single short session.
 ```
 
+```bash
+ALEX SANCHEZ STRATEGY
+
+Easy peasy strategy: increase the cashOut value on every loss keeping the same betSize. 
+Once we win start a new session.
+```
+
 ## Donate ##
 If you find this scripts useful and would like to see it continue to be supported, please donate :)
 
