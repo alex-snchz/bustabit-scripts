@@ -7,7 +7,7 @@ Let's take a closer look at an all-time favourite positive progression used by p
 all over the world called Oscar's Grind. This method does wonders in the short run, 
 but does it have the same effectiveness in the long run?
 
-If you're not familiar with progressions and betting strategies in general, we suggest you read our article about them first.
+If you're not familiar with progressions and betting strategies in general, we suggest you read some articles about them first.
 
 Oscar's Grind is based on the common misconception that a negative streak has to be followed by a similar-length positive one, 
 and tries to take advantage of this by winning more in the winning part of the streaks than what is lost in the losing part. 
